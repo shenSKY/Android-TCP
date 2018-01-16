@@ -1,0 +1,4 @@
+#Tue Jan 16 10:00:30 CST 2018
+base.0=/Users/shensky/Desktop/TCPDemo/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
