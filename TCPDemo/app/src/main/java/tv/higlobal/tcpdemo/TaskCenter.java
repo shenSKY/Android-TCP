@@ -127,8 +127,13 @@ public class TaskCenter {
             try {
                 /**得到的是16进制数，需要进行解析*/
                 byte[] bt = new byte[1024];
-                inputStream.read(bt);
-                String str = new String(bt, "UTF-8");
+//                获取接收到的字节和字节数
+                int length = inputStream.read(bt);
+//                获取正确的字节
+                byte[] bs = new byte[length];
+                System.arraycopy(bt, 0, bs, 0, length);
+
+                String str = new String(bs, "UTF-8");
                 if (str != null) {
                     if (receivedCallback != null) {
                         receivedCallback.callback(str);

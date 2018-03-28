@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/72fff152e2bf66c1e1f47008b0e07515/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shensky/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/03ae82354e9d9241971a1e0a37a9f5af/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a3477eb33681310bc278c0666c8246d7/AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shensky/.grad
 MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c05e868f3168d7a0598269ea2f0f90cb/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5a91aa0e5af89939133d1249d2b25cf6/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/735ba1240e222621cfb5235451d08aa6/AndroidManifest.xml:17:1-30:12
-INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:3:5-34
-		INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:5:5-19:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/72fff152e2bf66c1e1f47008b0e07515/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/72fff152e2bf66c1e1f47008b0e07515/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shensky/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/03ae82354e9d9241971a1e0a37a9f5af/AndroidManifest.xml:9:5-20
@@ -57,39 +57,39 @@ MERGED from [com.android.support:support-compat:26.1.0] /Users/shensky/.gradle/c
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/735ba1240e222621cfb5235451d08aa6/AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/735ba1240e222621cfb5235451d08aa6/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:11:9-40
 activity#tv.higlobal.tcpdemo.MainActivity
-ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:16:27-74
 uses-permission#android.permission.INTERNET
-ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:20:5-67
+ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:20:5-67
 	android:name
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml:20:22-64
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml:20:22-64
 uses-sdk
-INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
-INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/72fff152e2bf66c1e1f47008b0e07515/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/72fff152e2bf66c1e1f47008b0e07515/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/shensky/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/03ae82354e9d9241971a1e0a37a9f5af/AndroidManifest.xml:5:5-7:41
@@ -112,18 +112,18 @@ MERGED from [com.android.support:support-compat:26.1.0] /Users/shensky/.gradle/c
 MERGED from [com.android.support:support-compat:26.1.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5a91aa0e5af89939133d1249d2b25cf6/AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/735ba1240e222621cfb5235451d08aa6/AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/735ba1240e222621cfb5235451d08aa6/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
-INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/72fff152e2bf66c1e1f47008b0e07515/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shensky/Desktop/TCPDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shensky/Desktop/GIT/Android-TCP/TCPDemo/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/72fff152e2bf66c1e1f47008b0e07515/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/shensky/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a3477eb33681310bc278c0666c8246d7/AndroidManifest.xml:23:9-25:38
